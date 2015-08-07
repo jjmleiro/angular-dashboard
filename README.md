@@ -23,3 +23,11 @@ To get the AngularJS DASHBOARD app:
     $ sudo npm install
 
 To run app execute "npm start"
+
+License
+-------
+Apache License, Version 2.0
+http://www.apache.org/licenses/LICENSE-2.0
+
+--
+Jose Juan Martínez <jjmartinez@keedio.com>
